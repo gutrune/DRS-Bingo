@@ -1,6 +1,6 @@
 var bingoItems = [
     // Add bingo items to this list. If you must use the double quote character (") in an item, escape it like this: \"
-"No Pure Essence (Free space)",
+"No Essence",
 "Double Banner User",
 "Stoneskin 2 Spotted",
 "Forgets Aethershield",
