@@ -1,7 +1,7 @@
 var bingoItems = [
     // Add bingo items to this list. If you must use the double quote character (") in an item, escape it like this: \"
 "No Essence",
-"Double Banner User",
+"Wrong/Double Banner",
 "Stoneskin 2 Spotted",
 "Forgets Aethershield",
 "Dropped in Non-Pure",
@@ -51,6 +51,7 @@ var bingoItems = [
     "Frog Dice",
     "Someone Falls Asleep",
     "One-shot Slimes",
-    "Someone doesn't overslot Excellence"
+    "Someone doesn't overslot Excellence",
+    "Healer LB3 Dice",
     // For compatibility reasons, the very last item in the list should not have a comma after it.
 ];
