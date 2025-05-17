@@ -9,7 +9,6 @@ var bingoItems = [
 "Mini-Trap Popped (non-meme)",
 "Explosive Trap popped (not meme)",
 "Rainbow Road",
-"Big Red Slime",
 "Duel Fails",
 "Hello Chat :3 moment",
 "Queen's Guard Tether Moment",
@@ -21,7 +20,6 @@ var bingoItems = [
 "Excellence on the Left",
 "Dahu Early Pulled (No duelist buff)",
 "Early Pull (in general)",
-"Instance Crashed",
 "Golems Wipe",
 "Pure gets culled",
 "Non-duelist takes pad",
@@ -37,8 +35,6 @@ var bingoItems = [
 "Party without cure 4",
 "Party without Dervish",
 "Mino Add gets lose",
-"Sand Orb Explodes",
-"Fire Orb Explodes",
 "DNC/WHM/AST ping-ponged on wards",
 "Forced march in the wrong direction",
 "Seeker Fourfold Miscall",
@@ -52,5 +48,6 @@ var bingoItems = [
     "One-shot Slimes",
     "Someone doesn't overslot Excellence",
     "Healer LB3 Dice",
+    
     // For compatibility reasons, the very last item in the list should not have a comma after it.
 ];
