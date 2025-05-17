@@ -48,6 +48,9 @@ var bingoItems = [
 "Anyprog kills bosses faster than reclear",
 "Random DC/Crash",
     "C4 is in your mailbox",
-    "Frog Dice"
+    "Frog Dice",
+    "Someone Falls Asleep",
+    "One-shot Slimes",
+    
     // For compatibility reasons, the very last item in the list should not have a comma after it.
 ];
