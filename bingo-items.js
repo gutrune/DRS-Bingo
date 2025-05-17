@@ -51,6 +51,6 @@ var bingoItems = [
     "Frog Dice",
     "Someone Falls Asleep",
     "One-shot Slimes",
-    
+    "Someone doesn't overslot Excellence"
     // For compatibility reasons, the very last item in the list should not have a comma after it.
 ];
