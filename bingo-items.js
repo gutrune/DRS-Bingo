@@ -46,6 +46,9 @@ var bingoItems = [
 "All Crossover Fourfold Seeker",
 "Super Chess Skip in Anyprog",
 "Anyprog kills bosses faster than reclear",
-"Random DC/Crash"
+"Random DC/Crash",
+"Minecraft Movie Reference",
+    "C4 is in your mailbox",
+    "Frog Dice"
     // For compatibility reasons, the very last item in the list should not have a comma after it.
 ];
